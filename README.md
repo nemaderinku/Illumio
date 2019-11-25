@@ -21,3 +21,9 @@ ip: Enter ip address (IPv4 address) <br/>
 ##### Output:
 Returns boolean value. True if packet satisfies any of the rules; False otherwise.
 
+##### Tests:
+The code is tested against the given test inputs.
+
+##### Team Preference:
+I would like to join any of the 3 teams in the preference order - platform team, policy team, data team.
+
